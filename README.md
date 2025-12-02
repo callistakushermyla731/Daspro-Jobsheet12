@@ -27,3 +27,14 @@ Pertanyaan Percobaan 3
 2. Tipe data nilai kembalian adalah int.
    a). pilihanMenu bertipe int: berisi nomor menu yang dipilih pelanggan, dipakai untuk menentukan harga item dari array harga.
    b). jumlahPesanan bertipe int: berisi jumlah item yang dipesan, dipakai untuk menghitung total harga dengan mengalikan harga menu dengan jumlah pesanan.
+
+Percobaan Percobaan 4
+1. Fungsi menerima jumlah data yang tidak tetap, dapat menginput 1 nama, 3 nama, atau 10 nama tanpa membuat array secara manual.
+3. Bisa. Namun dalam 1 method hanya hanya boleh ada satu parameter varargs.
+4. namaPengunjung akan otomatis menjadi array kosong, perulangan for-each tidak menampilkan apa pun, tidak ada error saat kompilasi, program tetap berjalan.
+   Output yang dihasilkan.
+   Daftar Nama Pengunjung:
+   (tidak ada nama yang tampil karena array kosong)
+
+
+
